@@ -14,8 +14,6 @@ To assess your ability to build a simple, functional, and visually appealing tab
 - Includes a component at the bottom of the dropdown that allows the user to add a new item to the dropdown list.
 - This component should appear at the end of the options list and not as a separate component outside the dropdown.
 
-![Multi-Select Dropdown](https://prod-files-secure.s3.us-west-2.amazonaws.com/e02381ec-76ea-4f28-a43d-8401ab06ea6f/0e47397e-0fd8-48f1-860a-764e46b907f0/image.png)
-
 ### 3. Add Button
 - A **"Add New Row"** button should be present at the bottom of the table.
 - Clicking the button should add a new row to the bottom of the table, allowing the user to select values for both columns.
