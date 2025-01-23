@@ -3,12 +3,6 @@
 To assess your ability to build a simple, functional, and visually appealing table using React. This assignment will evaluate your understanding of React components, state management, and basic styling.
 
 
-## Table Wireframe
-
-![Table Wireframe](https://prod-files-secure.s3.us-west-2.amazonaws.com/e02381ec-76ea-4f28-a43d-8401ab06ea6f/9be315ce-8602-4dfe-8bd4-d9f0e85e2a80/image.png)
-
----
-
 ## Table Features
 
 ### 1. Column 1 (Label 1)
